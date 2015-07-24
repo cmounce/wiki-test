@@ -13,3 +13,4 @@
 - Broken links don't let you add new pages.
 - Broken links aren't apparent until you click them.
 - No redirect pages: moving a page breaks all links.
+- You can't add pictures using the web interface.
