@@ -15,3 +15,7 @@
 - No redirect pages: moving a page breaks all links.
 - You can't add pictures using the web interface.
 - You can have more human-readable links, but the code requires a link definition: hacky compared to MediaWiki.
+
+## Reviewing content
+- No per-page alerts.
+- You can't revert a commit via the web interface. You can revert pull requests, but not commits.
